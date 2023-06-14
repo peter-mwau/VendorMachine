@@ -18,7 +18,7 @@ const vendingmachine = () => {
         setError(error.message)
     }
   }else {
-    setError("Metamask not found, Please Install")
+    setError("Metamask not found, Please Install!!")
     }
   };
 
